@@ -32,8 +32,8 @@ export default function Home() {
           className={styles.logo}
           src="/next.svg"
           alt="Next.js Logo"
-          width={180}
-          height={37}
+          width={200}
+          height={50}
           priority
         />
       </div>
@@ -42,7 +42,7 @@ export default function Home() {
         <a
           href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
           className={styles.card}
-          target="_blank"
+         //// target="_blank"
           rel="noopener noreferrer"
         >
           <h2>
