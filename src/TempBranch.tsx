@@ -6,7 +6,7 @@ export default function TempBranch() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Hello worldddd Nextjs 13 & Hỏi Dân IT
+          Hello word Nextjs 13 & Hỏi Dân IT
         </p>
         <div>
           <a
@@ -32,7 +32,7 @@ export default function TempBranch() {
           className={styles.logo}
           src="/next.svg"
           alt="Next.js Logo"
-          width={200}
+          width={500}
           height={50}
           priority
         />
