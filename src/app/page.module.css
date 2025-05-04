@@ -1,10 +1,10 @@
 .main {
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
+  justify-content: space-between;
   align-items: center;
-  padding: 7rem;
-  min-height: 110vh;
+  padding: 8rem;
+  min-height: 120vh;
 }
 
 .description {
